@@ -17,4 +17,4 @@
 - [tiger-new create-react-app 魔改版](https://github.com/qiqiboy/tiger-new)
 - [git 使用](https://git-scm.com/book/zh/v2/)
 - [ant-design-pro 前端默认脚手架 \ ant-design dva roadhog ](https://pro.ant.design/docs/getting-started-cn)
-- [CS 基础]()
+- [CS 基础](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
