@@ -11,18 +11,18 @@
   ```
   ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   ```
-* iTerm2 替代默认终端
+* iTerm2 替代默认终端
   ```
   sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
   ```
-* node 基础运行环境
+* node 基础运行环境
   ```
   brew install node
   ```
-  * `npm` 下载速度较慢，可使用[国内镜像](https://npm.taobao.org/)
+  * `npm` 下载速度较慢，可使用[国内镜像](https://npm.taobao.org/)
 
 ## 必知必会
-* [github `Markdown` 语法](https://github.com/guodongxiaren/README) 写出舒服的提问/答案/文档 
+* [github `Markdown` 语法](https://github.com/guodongxiaren/README) 写出舒服的提问/答案/文档 
 * [git 基础](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html) 注意及时删除用过的远程分支/使用 rebase 替代 merge
 
 ## 文档外链
@@ -32,9 +32,9 @@
 * [关于 `node`](https://elemefe.github.io/node-interview/#/sections/zh-cn/)
 * [webpack](https://webpack.docschina.org/concepts)
 
-## 资源推荐
-* git 图形化客户端推荐
-  * [tortoisegit](https://tortoisegit.org/)
-  * [git-fork](https://git-fork.com/) 刚发现的，貌似不错
-  * [sourcetree](https://www.sourcetreeapp.com/)
-  * [tower](https://www.git-tower.com/mac/) 收费/最推荐
+## 资源推荐
+* git 图形化客户端推荐
+  * [tortoisegit](https://tortoisegit.org/)
+  * [git-fork](https://git-fork.com/) 刚发现的，貌似不错
+  * [sourcetree](https://www.sourcetreeapp.com/)
+  * [tower](https://www.git-tower.com/mac/) 收费/最推荐
