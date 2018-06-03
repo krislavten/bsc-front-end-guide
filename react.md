@@ -1,11 +1,17 @@
 # react 相关
 
 ## 哪里用到了
-* `docker-edge` 边缘计算管理平台
+* `docker-edge` 边缘计算管理平台
 * `hive` 数聚蜂巢管理平台
 
 ## 基础知识快速通关
 [ES5+、React、dva 的基础知识](./Basic.md) ****正式开发线上代码前必知必会 _借鉴自 dva-knowledge_
+
+## react
+* virtual dom
+* setState()
+* 生命周期函数
+* diff 算法
 
 ## 文档外链
 * [`react` 基础语法](https://doc.react-china.org/docs/hello-world.html)
