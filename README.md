@@ -24,14 +24,17 @@
 ## 必知必会
 * [github `Markdown` 语法](https://github.com/guodongxiaren/README) 写出舒服的提问/答案/文档 
 * [git 基础](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html) 注意及时删除用过的远程分支/使用 rebase 替代 merge
-* git 图形化客户端推荐
-  * [tortoisegit](https://tortoisegit.org/)
-  * [git-fork](https://git-fork.com/) 刚发现的，貌似不错
-  * [sourcetree](https://www.sourcetreeapp.com/)
-  * [tower](https://www.git-tower.com/mac/) 收费/最推荐
 
 ## 文档外链
 * [ES2015+](http://es6.ruanyifeng.com/)
 * [git](https://git-scm.com/book/zh/v2/)
 * [JavaScript `算法与数据结构`](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 * [关于 `node`](https://elemefe.github.io/node-interview/#/sections/zh-cn/)
+* [webpack](https://webpack.docschina.org/concepts)
+
+## 资源推荐
+* git 图形化客户端推荐
+  * [tortoisegit](https://tortoisegit.org/)
+  * [git-fork](https://git-fork.com/) 刚发现的，貌似不错
+  * [sourcetree](https://www.sourcetreeapp.com/)
+  * [tower](https://www.git-tower.com/mac/) 收费/最推荐
