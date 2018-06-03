@@ -22,8 +22,8 @@
   * `npm` 下载速度较慢，可使用[国内镜像](https://npm.taobao.org/)
 
 ## 必知必会
-* [github `Markdown` 语法](https://github.com/guodongxiaren/README) 写出舒服的提问/答案/文档 
-* [git 基础](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html) 注意及时删除用过的远程分支/使用 rebase 替代 merge
+* [github `Markdown` 语法](https://github.com/guodongxiaren/README) 写出舒服的提问/答案/文档 
+* [git 基础](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html) 注意及时删除用过的远程分支/使用 rebase 替代 merge
 
 ## 文档外链
 * [ES2015+](http://es6.ruanyifeng.com/)
