@@ -38,7 +38,7 @@
       align-items:center;/*指定垂直居中*/
     }
   ```
-* `object-fit`  定义内容块在不同宽高下的表现，常用于 `img` `video` 等带有  `object-positon`的标签
+* [`object-fit`](https://css-tricks.com/almanac/properties/o/object-fit/)  定义内容块在不同宽高下的表现，常用于 `img` `video` 等带有  `object-positon`的标签
   * `object-fit:cover` `background-image:cover` 在 img 和 div:background-images 下的表现一致
 
 ## js tips
