@@ -7,6 +7,9 @@
 ## 基础知识快速通关
 [ES5+、React、dva 的基础知识](./Basic.md) ****正式开发线上代码前必知必会 _借鉴自 dva-knowledge_
 
+## react 简版
+[40行代码内实现一个 reactjs](https://zhuanlan.zhihu.com/p/25398176)
+
 ## react
 * virtual dom
 * setState()
